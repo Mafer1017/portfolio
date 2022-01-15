@@ -1,8 +1,11 @@
-.header {
+.name {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 95px;
 }
 
-.test {
+.sections {
   color: crimson;
+}
+.ducks {
+  color: green;
 }
