@@ -2,7 +2,7 @@
 
 #### By _**Marcus Ferreira**_
 
-#### _{A simple webpage showcasing some of the projects I have worked on thus far at Epicodus}_
+#### _A simple webpage showcasing some of the projects I have worked on thus far at Epicodus_
 
 ## Technologies Used
 
