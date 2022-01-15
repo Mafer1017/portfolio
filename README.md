@@ -16,6 +16,8 @@
 
 _This webpage allows readers to get a sense of the technologies and languages I've learned to use at Epicodus._
 
+## Known Bugs
+
 ## License
 MIT
 
