@@ -19,7 +19,7 @@ _This webpage allows readers to get a sense of the technologies and languages I'
 ## License
 MIT
 
-_
-If you run into any issues, concerns, or any suggestions, please contact me at my email address: marcusferreira23@gmail.com_
+
+_If you run into any issues, concerns, or any suggestions, please contact me at my email address: marcusferreira23@gmail.com_
 
 Copyright (c) _1.13.2022_ _Marcus Ferreira_
