@@ -4,6 +4,10 @@
 
 #### _A simple webpage showcasing some of the projects I have worked on thus far at Epicodus_
 
+## Description
+
+_This webpage allows readers to get a sense of the technologies and languages I've learned to use at Epicodus._
+
 ## Technologies Used
 
 * _HTML_
@@ -12,9 +16,7 @@
 * _VS Code_
 * _Bootstrap_
 
-## Description
-
-_This webpage allows readers to get a sense of the technologies and languages I've learned to use at Epicodus._
+## Application Setup Instructions
 
 ## Known Bugs
 
