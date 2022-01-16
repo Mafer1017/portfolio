@@ -6,6 +6,7 @@
   border: 2px solid black;
   padding: 10px;
   float: top;
+  background-color: gainsboro;
 }
 
 .titles {
@@ -24,4 +25,7 @@
   margin: 10px;
   border: 2px solid black;
   padding: 10px;
+}
+.text-align {
+  text-align: center;
 }
