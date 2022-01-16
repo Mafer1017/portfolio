@@ -10,10 +10,19 @@
 }
 
 .titles {
-  color: crimson;
+  color: rgb(45, 93, 226);
 }
 .ducks {
   color: green;
+}
+.titans {
+  color: lightblue;
+}
+.blazers {
+  color: crimson;
+}
+.royals {
+  color: gold;
 }
 .box {
   font-family: Arial, Helvetica, sans-serif;

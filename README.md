@@ -1,4 +1,4 @@
-# _Portfolio_
+# [Marcus' Portfolio](https://mafer1017.github.io/portfolio/)
 
 #### By _**Marcus Ferreira**_
 
@@ -19,7 +19,7 @@ _This webpage allows readers to get a sense of the technologies and languages I'
 ## Known Bugs
 
 ## License
-MIT
+_MIT_
 
 
 _If you run into any issues, concerns, or any suggestions, please contact me at my email address: marcusferreira23@gmail.com_
