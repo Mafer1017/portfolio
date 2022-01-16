@@ -20,6 +20,9 @@ _This webpage allows readers to get a sense of the technologies and languages I'
 
 ## Known Bugs
 
+*_Headshot image boarder overlapping with About Me section boarder._
+*_Unordered list bulletpoints and ordered list numbers overlap image boarder_
+
 ## License
 [MIT](https://opensource.org/licenses/MIT)
 
