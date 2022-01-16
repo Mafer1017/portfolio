@@ -14,15 +14,19 @@
 }
 .ducks {
   color: green;
+  font-weight: bold;
 }
 .titans {
   color: lightblue;
+  font-weight: bold
 }
 .blazers {
   color: crimson;
+  font-weight: bold;
 }
 .royals {
   color: gold;
+  font-weight: bold;
 }
 .box {
   font-family: Arial, Helvetica, sans-serif;
