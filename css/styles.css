@@ -1,17 +1,26 @@
 .name {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 95px;
+  text-align: center;
+  margin: 25px;
   border: 2px solid black;
   padding: 10px;
+  float: top;
 }
 
-.sections {
+.titles {
   color: crimson;
 }
 .ducks {
   color: green;
 }
 .box {
+  margin: 12px;
   border: 2px solid black;
   padding: 4px;
+}
+.sections {
+  margin: 10px;
+  border: 2px solid black;
+  padding: 10px;
 }
