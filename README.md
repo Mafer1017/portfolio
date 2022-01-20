@@ -18,9 +18,9 @@ _This webpage allows readers to get a sense of the technologies and languages I'
 
 ## Application Setup Instructions
 
-*Clone the repository to your desktop.
-*Navigate to the top level of the directory.
-*Open index.html in browser.
+*_Clone the repository to your desktop._
+*_Navigate to the top level of the directory._
+*_Open index.html in browser._
 
 *_Alternatively, you can view the project by following [this link](https://mafer1017.github.io/portfolio/)_
 
